@@ -10,6 +10,6 @@ From v0.1.2, installation automatically creates `Documents\Phasma Development Su
 
 From v0.1.1, Phasma checks for updates when it opens and applies an available update before opening your workspace. Choose **Open app now** to skip waiting. If it is already open, updates download in the background and the blue **Update available** button lets you choose when to apply and restart. Your external vault and preferences are preserved.
 
-Existing v0.1.0 users need to install v0.1.1 once to gain automatic updates. Future releases update inside Phasma. Users with access to the original private repository may also use v0.1.0's Settings → Updates to obtain that first upgrade.
+Existing v0.1.0 users need one upgrade to v0.1.1 or later to gain automatic updates; use the latest installer above. Future releases update inside Phasma. Users with access to the original private repository may also use v0.1.0's Settings → Updates to obtain that first upgrade.
 
 This repository contains release files and this README only. App source is maintained privately. The automatically generated Source code archives contain this release repository's README, not the application installer.
